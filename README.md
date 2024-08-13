@@ -3,7 +3,7 @@
 I'm a passionate software developer with experience in frontend development. Currently working on perfecting my frontend skills as I dwell to becoming a fullsatck developer.
 
 ## Skills & Technologies
-- **Languages**: JavaScript, HTML, css
+- **Languages**: JavaScript, HTML, CSS
 - **Frameworks**: React
 - **Tools**: Git
 

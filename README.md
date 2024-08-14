@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevSankale
 ## About Me
-I'm a passionate software developer with experience in frontend development. Currently working on perfecting my backend skills as I dwell to become a fullsatck developer.
+I'm a passionate software developer with experience in frontend development. Currently working on perfecting my backend skills as I dwell to become a fullstack developer.
 
 ## Skills & Technologies
 - **Languages**: JavaScript, HTML, CSS

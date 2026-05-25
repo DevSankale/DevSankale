@@ -1,14 +1,13 @@
 - 👋 Hi, I’m @DevSankale
+
 ## About Me
-I'm a passionate software developer with experience in frontend development. Currently working on perfecting my backend skills as I dwell to become a fullstack developer.
+I’m a professional Full-Stack Developer specializing in **WordPress development and React-based web applications**. I design and build fast, responsive, and scalable websites with a strong focus on performance, usability, and clean code.
+
+I have hands-on experience developing custom WordPress solutions, modern React interfaces, and integrating frontend systems with backend services and databases.
+
+I build production-ready applications and continuously deliver reliable, maintainable digital solutions for real-world use cases.
 
 ## Skills & Technologies
 - **Languages**: JavaScript, HTML, CSS
 - **Frameworks**: React
 - **Tools**: Git
-
-
-<!---
-DevSankale/DevSankale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
